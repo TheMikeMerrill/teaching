@@ -1,0 +1,4 @@
+.vscode
+wandb/*
+weights.npy
+.DS_Store

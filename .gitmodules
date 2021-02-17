@@ -1,0 +1,3 @@
+[submodule "cse481ds_au20_website"]
+	path = cse481ds_au20_website
+	url = https://github.com/behavioral-data/cse481ds_au20_website.git
