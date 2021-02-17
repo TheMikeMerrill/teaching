@@ -1,2 +1,2 @@
 # Tutorials
-A repository of tutorials for Data Science / Machine Learning / Visualization topics.
+A repository of tutorials and presnetations I've given on Data Science / Machine Learning / Visualization topics.
